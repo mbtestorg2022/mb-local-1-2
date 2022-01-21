@@ -1,0 +1,13 @@
+leftnav:
+- identifier: ce74b880-efa5-4fb5-9b5a-8b21a91a46d1
+  name: video new
+  url: /resources/a-new-video
+  weight: 10
+- identifier: external-600300023-1639580026635
+  name: fe
+  url: http://geonode.org
+  weight: 20
+- identifier: 7301e553-2df3-4c75-b04c-d5bed65b4705
+  name: resource link
+  url: /resources/index-resource
+  weight: 30

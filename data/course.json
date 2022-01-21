@@ -1,0 +1,31 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "instructors": {
+    "content": [
+      "e950e033-9524-c600-2449-fe5276f40a3c",
+      "2e68ad1b-f095-ff6e-43a2-fc068399ace8",
+      "21cf1bf1-d099-b1b7-77c9-e82ca0defb4c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "mb-local-1-2"
+  },
+  "course_title": "werwer",
+  "course_description": "",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "mb-oct07-b",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "mb-local-1-2"
+  },
+  "learning_resource_types": [],
+  "site_uid": "67a74235-41dc-416c-a3ca-5e7403fd9f3a"
+}
